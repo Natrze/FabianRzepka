@@ -34,6 +34,7 @@ aside {
 
 .bold {
   font-weight: 700;
+  color: #fff;
 }
 
 .list-secondary {
@@ -47,6 +48,11 @@ aside {
 
 .list-secondary-item {
   color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  list-style-position: outside;
+  padding-left: 0px;
 }
 
 .contact-blok {
@@ -68,7 +74,7 @@ aside {
 }
 
 main {
-  padding: 65px 88px 102px 88px;
+  padding: 40px 88px 102px 88px;
 }
 
 .job-title {
@@ -81,16 +87,19 @@ h1 {
   font-size: 45px;
   font-weight: 700;
   line-height: normal;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 .main-description {
   margin-bottom: 50px;
 }
+
 .description {
   color: #595959;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .projects {
@@ -126,6 +135,7 @@ h1 {
   font-size: 16px;
   font-weight: 700;
   line-height: 20px;
+  margin-bottom: 5px;
 }
 
 .highlight {
@@ -137,6 +147,7 @@ h1 {
   font-size: 12px;
   font-weight: 400;
   line-height: normal;
+  margin-top: 0px;
 }
 
 .job-list {
@@ -167,4 +178,16 @@ h4 {
   margin-left: 0;
   padding-left: 0;
   list-style-position: inside;
+}
+
+.description2 {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+
+.header-education {
+  margin-top: 70px;
 }
