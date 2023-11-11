@@ -56,8 +56,9 @@ aside {
 }
 
 .tech-skills-block {
-  margin-top: 47px;
-  margin-left: 40px;
+  margin-top: 2.5rem;
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
   color: #fff;
 }
 
@@ -67,11 +68,7 @@ aside {
 }
 
 main {
-  padding: 102px 88px 102px 88px;
-}
-
-.main-description {
-  width: 400px;
+  padding: 65px 88px 102px 88px;
 }
 
 .job-title {
@@ -85,13 +82,15 @@ h1 {
   font-weight: 700;
   line-height: normal;
 }
-
+.main-description {
+  margin-bottom: 50px;
+}
 .description {
   color: #595959;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  margin-bottom: 40px;
+  margin-bottom: 25px;
 }
 
 .projects {
