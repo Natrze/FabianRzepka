@@ -191,3 +191,15 @@ h4 {
 .header-education {
   margin-top: 70px;
 }
+
+.company {
+  color: #fb6d3a;
+}
+
+.rodo {
+  color: #595959;
+  font-size: 7px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
